@@ -5,5 +5,5 @@
 @@advanced programming student.@@
 - living in oxford, england.
 - 15 years old
-- cracker / hacker and shitposter
+- cracker, hacker and shitposter
 ```
